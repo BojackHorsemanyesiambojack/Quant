@@ -9,7 +9,10 @@
 *.user
 *.userosscache
 *.sln.docstates
+<<<<<<< HEAD
 *.vs
+=======
+>>>>>>> ea409f8e270f46da4ad2b7eff1147c3b8e693ed4
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -398,4 +401,8 @@ FodyWeavers.xsd
 *.msp
 
 # JetBrains Rider
+<<<<<<< HEAD
 *.sln.iml
+=======
+*.sln.iml
+>>>>>>> ea409f8e270f46da4ad2b7eff1147c3b8e693ed4
