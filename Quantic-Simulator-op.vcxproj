@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="3dContext.h" />
     <ClInclude Include="Objects.h" />
     <ClInclude Include="Atom.h" />
     <ClInclude Include="Electron.h" />

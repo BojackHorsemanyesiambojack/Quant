@@ -25,6 +25,9 @@
     <Filter Include="Archivos de encabezado\Utils">
       <UniqueIdentifier>{e706cf28-d4b0-456f-856c-98a2cdcfb7cd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Archivos de encabezado\Context">
+      <UniqueIdentifier>{da6eef89-6592-48f3-96e8-c6475ec57a51}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="QuantumEntity.h">
@@ -53,6 +56,9 @@
     </ClInclude>
     <ClInclude Include="UtilObjects.h">
       <Filter>Archivos de encabezado\Elements</Filter>
+    </ClInclude>
+    <ClInclude Include="3dContext.h">
+      <Filter>Archivos de encabezado\Context</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
